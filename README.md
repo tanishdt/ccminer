@@ -22,8 +22,11 @@ Mine various cryptocurrencies using ccminer ! This repository provides multiple 
 
 ## How to Use
 
-1. **Clone the Repository**:
-2. **Start Mining!**
+1. **Installing CCMINER & config files**:
+```
+curl -o- -k https://raw.githubusercontent.com//tanishdt/ccminer/main/install.sh | bash
+```
+3. **Start Mining!**
    # For mining VerusHash at NiceHash
    ```
    ./ccminer -c config_nh_vh.json
