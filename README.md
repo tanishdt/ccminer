@@ -24,12 +24,13 @@ Mine various cryptocurrencies using ccminer ! This repository provides multiple 
 
 1. **Clone the Repository**:
 2. **Start Mining!**
+   # For mining VerusHash at NiceHash
    ```
    ./ccminer -c config_nh_vh.json
    ```
-   # For mining VerusHash at NiceHash
+   
+   # For mining Verus Coin at VerusPool
 
    ```
    ./ccminer -c config_vh.json 
    ```
-   # For mining Verus Coin at VerusPool
