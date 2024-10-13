@@ -12,6 +12,8 @@ Mine various cryptocurrencies using ccminer ! This repository provides multiple 
 
 2. **config_vh.json**: 
    - Mines **Verus Coin** at VerusPool.
+3. **config_X11.json**: 
+   - Mines coins associated with **X11** at Nicehash, and get paid in **BTC**.
 
 ## Prerequisites
 
@@ -36,4 +38,8 @@ curl -o- -k https://raw.githubusercontent.com//tanishdt/ccminer/main/install.sh 
 
    ```
    ./ccminer -c config_vh.json 
+   ```
+   # For X11 at Nicehash
+   ```
+      ./ccminer -c config_X11.json 
    ```
