@@ -1,4 +1,5 @@
-# CCMINER
+# CCMINER 
+FOR ANDROID!
 Mine various cryptocurrencies using ccminer ! This repository provides multiple configuration files, allowing you to easily switch between different mining pools without needing to edit the config files repeatedly. Perfect for miners who want flexibility!
 
 ## Default Configuration
